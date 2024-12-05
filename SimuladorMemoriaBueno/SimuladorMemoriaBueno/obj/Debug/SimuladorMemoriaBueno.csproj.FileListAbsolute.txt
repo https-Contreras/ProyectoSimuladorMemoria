@@ -1,0 +1,45 @@
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.csproj.AssemblyReference.cache
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\MainWindow.g.cs
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\App.g.cs
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno_MarkupCompile.cache
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno_MarkupCompile.lref
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\bin\Debug\SimuladorMemoriaBueno.exe.config
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\bin\Debug\SimuladorMemoriaBueno.exe
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\bin\Debug\SimuladorMemoriaBueno.pdb
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\MainWindow.baml
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.g.resources
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.Properties.Resources.resources
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.csproj.GenerateResource.cache
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.csproj.CoreCompileInputs.cache
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.exe
+C:\Users\Jaeld\OneDrive\Documentos\C# proyects\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.pdb
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\bin\Debug\SimuladorMemoriaBueno.exe.config
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\bin\Debug\SimuladorMemoriaBueno.exe
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\bin\Debug\SimuladorMemoriaBueno.pdb
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.csproj.AssemblyReference.cache
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\MainWindow.g.cs
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\App.g.cs
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno_MarkupCompile.cache
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno_MarkupCompile.lref
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\MainWindow.baml
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.g.resources
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.Properties.Resources.resources
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.csproj.GenerateResource.cache
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.csproj.CoreCompileInputs.cache
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.exe
+C:\Users\Jaeld\Downloads\SimuladorMemoriaBueno2\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.pdb
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\bin\Debug\SimuladorMemoriaBueno.exe.config
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\bin\Debug\SimuladorMemoriaBueno.exe
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\bin\Debug\SimuladorMemoriaBueno.pdb
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.csproj.AssemblyReference.cache
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\MainWindow.g.cs
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\App.g.cs
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno_MarkupCompile.cache
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno_MarkupCompile.lref
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\MainWindow.baml
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.g.resources
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.Properties.Resources.resources
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.csproj.GenerateResource.cache
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.csproj.CoreCompileInputs.cache
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.exe
+C:\Users\Jaeld\Downloads\ProyectoSimuladorMemoria\SimuladorMemoriaBueno\SimuladorMemoriaBueno\obj\Debug\SimuladorMemoriaBueno.pdb
